@@ -1,0 +1,7 @@
+#ifndef _LEVEL_LAYER_GLOBAL_H_
+#define _LEVEL_LAYER_GLOBAL_H_
+
+#define TRANSITION_TIME 0.3f
+
+
+#endif //_LEVEL_LAYER_GLOBAL_H_
